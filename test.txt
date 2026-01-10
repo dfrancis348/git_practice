@@ -8,3 +8,4 @@ add one more cool feature
 another cool feature
 fixed a critcal bug
 This is a new critcal bug.
+fix another bug
