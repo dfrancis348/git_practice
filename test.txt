@@ -9,3 +9,4 @@ another cool feature
 fixed a critcal bug
 Add something here
 This is another cool feature
+Here is another cool feature
